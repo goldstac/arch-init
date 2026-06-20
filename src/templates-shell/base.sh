@@ -15,8 +15,4 @@ git clone https://github.com/Jguer/yay.git
 cd yay
 
 makepkg -si
-
-echo "installing cursor"
-
-yay -S cursor-bin
-
+cd ..
