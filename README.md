@@ -1,5 +1,5 @@
 # 🚀 Arch Init | System Automation Script
-
+<video src="preview.mp4">
 A minimalist, lightweight automation script designed to turn a fresh Arch Linux installation into a fully configured development workspace in seconds. 
 
 > 🧪 **Status:** Actively under development! Expect frequent updates and new templates.
